@@ -1,4 +1,3 @@
-//![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 <h1 align="center">Hi 👋, I'm Mohit Phuldaliya</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
