@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://mohit-phuldaliya-portfolio.vercel.app/]
+- 👨‍💻 All of my projects are available at https://mohit-phuldaliya-portfolio.vercel.app/
 
 - 💬 Ask me about **Reactjs, Nodejs**
 
